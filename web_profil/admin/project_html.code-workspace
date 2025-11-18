@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../project_html"
+		},
+		{
+			"path": "../../project_css"
+		},
+		{
+			"path": "../../project_bootstrap"
+		},
+		{
+			"path": "../../project_php"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../coding/dist"
+		},
+		{
+			"path": "C:/Users/LENOVO/Downloads/dompetmahasiswa"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project_bootstrap"
+	}
+}
